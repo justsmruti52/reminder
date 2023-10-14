@@ -1,0 +1,125 @@
+{
+  "data": [],
+  "signup": [
+    {
+      "name": "prabir sahoo",
+      "email": "pkxsahoo@gmail.com",
+      "pass": "852",
+      "phone": "865",
+      "isAdmin": false,
+      "id": 13
+    },
+    {
+      "name": "krishna",
+      "email": "k@gmail.com",
+      "pass": "11",
+      "phone": "454",
+      "isAdmin": false,
+      "id": 14
+    }
+  ],
+  "currentuser": {
+    "name": "prabir sahoo",
+    "email": "pkxsahoo@gmail.com",
+    "pass": "852",
+    "phone": "865",
+    "isAdmin": false,
+    "id": 13,
+    "isLogin": true
+  },
+  "reminder": [
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "2023-10-20",
+      "selectedSubject": "subject2",
+      "description": "dfghjk",
+      "email": "ghj",
+      "contactNo": "59635623",
+      "smsNo": "78465132",
+      "recurrenceDays": [
+        "7 Days"
+      ],
+      "id": 1
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "",
+      "selectedSubject": "subject2",
+      "description": "reminder",
+      "email": "kanha@gmail.com",
+      "contactNo": "9799955",
+      "smsNo": "62365",
+      "recurrenceDays": [
+        "5 Days"
+      ],
+      "id": 2
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "",
+      "selectedSubject": "subject1",
+      "description": "reminder1",
+      "email": "kanha@gmail.com1",
+      "contactNo": "111111111",
+      "smsNo": "11111111",
+      "recurrenceDays": [
+        "5 Days",
+        "3 Days"
+      ],
+      "id": 3
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "",
+      "selectedSubject": "subject2",
+      "description": "reminder21",
+      "email": "kanha@gmail.com2",
+      "contactNo": "222222222",
+      "smsNo": "2222222",
+      "recurrenceDays": [
+        "5 Days",
+        "3 Days"
+      ],
+      "id": 4
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "",
+      "selectedSubject": "subject1",
+      "description": "reminder3",
+      "email": "kanha@gmail.com3",
+      "contactNo": "33333333",
+      "smsNo": "3333333",
+      "recurrenceDays": [
+        "3 Days"
+      ],
+      "id": 5
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "",
+      "selectedSubject": "subject1",
+      "description": "reminder41",
+      "email": "kanha@gmail.com4",
+      "contactNo": "44444444",
+      "smsNo": "444444444",
+      "recurrenceDays": [
+        "3 Days"
+      ],
+      "id": 6
+    },
+    {
+      "activeUser": "prabir sahoo",
+      "selectedDate": "2023-10-27",
+      "selectedSubject": "subject1",
+      "description": "reminder5",
+      "email": "kanha@gmail.com5",
+      "contactNo": "555555",
+      "smsNo": "666666",
+      "recurrenceDays": [
+        "3 Days"
+      ],
+      "id": 7
+    }
+  ]
+}
